@@ -1,8 +1,6 @@
-# ZJU-blockchain-course-2022
-
-⬆ 可以️修改成你自己的项目名。
-
-> 第二次作业要求（可以删除）：
+# ZJU-blockchain-homework2
+### made by Gecceu 2022.10.23 
+> 第二次作业要求：
 > 
 > 去中心化学生社团组织治理应用 
 > 
